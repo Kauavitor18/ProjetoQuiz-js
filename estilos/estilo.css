@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(0,0,32);
+    align-items: center;
+    text-align: center;
+
+}
+h1, h2, h3{
+    color: 
+    rgb(171,117,50);
+}
+p{
+    color: aliceblue;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+#container {
+    display: flex;
+    justify-content: space-between; /* Espaço igual entre os elementos */
+}
+#reference{
+    width: 700px;
+    height: 300px;
+}
+#referencia{
+    width: 350px;
+    height: 350px;
+    border-radius: 1000px;
+    
+}
